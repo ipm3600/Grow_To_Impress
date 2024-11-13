@@ -1,0 +1,14 @@
+# Dev environment
+pip
+autopep8
+
+
+# App
+Flask
+flask-cors
+flask-bcrypt
+Werkzeug 
+Pillow 
+yt-dlp 
+google-generativeai
+python-dotenv
